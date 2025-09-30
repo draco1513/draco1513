@@ -92,7 +92,7 @@ Estas son las tecnologías con las que tengo experiencia sólida y que utilizo e
   <a href="mailto:tu-email-aqui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
+  <a href="https://www.linkedin.com/in/david-daniel-mendoza">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
