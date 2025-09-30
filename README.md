@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hola, soy Sebastián (draco1513) 👋
+  Hola, soy David Mendoza (draco1513) 👋
 </h1>
 
 <h3 align="center">Desarrollador Full-Stack con experiencia en .NET y el ecosistema JavaScript</h3>
